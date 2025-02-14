@@ -6,28 +6,28 @@ This project is a GraphQL-based Employee Management System built using Node.js, 
 
 ---
 
-📌 Technologies Used
-Node.js (Backend Framework)
-Apollo Server (GraphQL API)
-MongoDB (Database)
-Mongoose (ODM for MongoDB)
-JWT Authentication (Secure API Calls)
-Postman (API Testing)
+## 📌 Technologies Used
+- Node.js (Backend Framework)
+- Apollo Server (GraphQL API)
+- MongoDB (Database)
+- Mongoose (ODM for MongoDB)
+- JWT Authentication (Secure API Calls)
+- Postman (API Testing)
 
 ---
 
-Installation & Setup
-1️⃣ Clone the Repository
-sh
+## 📌 Installation & Setup
+### 1️⃣ Clone the Repository
+```sh
 git clone https://github.com/jayamdavadi/COMP3133_101435982_Assignment1.git
 cd COMP3133_101435982_Assignment1
+```
 
-````
 ### 2️⃣ Install Dependencies
 ```sh
 npm install
-````
 
+```
 ### 3️⃣ Configure Environment Variables
 
 Create a `.env` file in the root directory and add the following:
